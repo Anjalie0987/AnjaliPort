@@ -9,11 +9,4 @@ https://Anjalie0987.github.io/AnjaliPort/
 
 
 
-📫 Contact Me
-<p align="left">
-<a href="https://www.linkedin.com/in/anjali-mehta-50129b275/" target="_blank">
 
-<a href="mailto:anjali0987mehta@gmail.com">
-
-</a>
-</p>
